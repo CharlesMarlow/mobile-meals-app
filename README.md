@@ -1,8 +1,14 @@
-# meals_app
+## Meals App
 
-A new Flutter project.
+- In this mobile app the user can browse through different meal categories, check out 
+recipes and mark favourite meals. Please note that this app does not use any storage system and hence it is cleared upon refresh.
 
-## Getting Started
+## Run locally
+- In order to run this app locally on your machine, please follow these steps:
+1. Download Android Studio and follow instructions to activate an emulator.
+2. Inside your IDE of choice, run the app in no-debug mode and it will be attached to your emulator.
+
+## Getting Started With Flutter
 
 This project is a starting point for a Flutter application.
 
